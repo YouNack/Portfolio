@@ -1,0 +1,40 @@
+{
+  "name": "e-atelimo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint --dir src",
+    "lint:fix": "yarn lint --fix"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.5",
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "@fortawesome/free-brands-svg-icons": "^6.2.1",
+    "@fortawesome/free-regular-svg-icons": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.1",
+    "@next/font": "13.1.0",
+    "@react-spring/parallax": "^9.6.1",
+    "@rive-app/react-canvas": "^3.0.34",
+    "@types/node": "18.11.17",
+    "@types/react": "18.0.26",
+    "@types/react-dom": "18.0.9",
+    "axios": "^1.2.3",
+    "eslint": "8.30.0",
+    "eslint-config-next": "13.1.0",
+    "next": "13.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-spring": "^9.6.1",
+    "typescript": "4.9.4"
+  }
+}

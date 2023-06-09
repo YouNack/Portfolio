@@ -1,0 +1,23 @@
+{
+  "about": [
+    {
+      "title": "注意",
+      "content": "本来趣味で作ってる奴を転職活動用に中身をすり替えているため所々スカスカです。<br/>　next.js初学者のころに作ったのでコードに難があります。",
+      "end": 6
+    },
+    {
+      "title": "アバウト ミー",
+      "content": "#情報系 #Jリーグ #絵 #RocketLeague #アニメ・ゲーム #lovelive",
+      "end": 4,
+      "imgDesc": "名前： Nakamura Yuya",
+      "imgSrc": "icon_kurage.svg"
+    },
+    {
+      "title": "このページについて",
+      "content": "作ったものとか触った言語とかを纏めるポートフォリオです。<br/>　俳句とか座右の銘とかは余興です。<br/> 　スクロールで次のページに進みます。",
+      "subtitle": "連絡先",
+      "subcontent": "email: enilimo.dev@gmail.com",
+      "end": 2
+    }
+  ]
+}

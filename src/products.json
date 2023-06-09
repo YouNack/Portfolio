@@ -1,0 +1,52 @@
+{
+  "product": [
+    {
+      "imgSrc": "ic_launcher-playstore.png",
+      "title": "Polaris in Wazzle",
+      "backTitle": "Polaris in Wazzle（裏面）",
+      "content": "Unityで作ったパズルゲーム。ポーカーとテトリスの融合。和風パズルゲームでシリーズ化する予定なのでin Wazzleと付いている。",
+      "backContent": "単純だから英語対応しても平気だろうと思ったら申請の作業量がほぼ倍になって大変だった。Appleに本名晒された。",
+      "buttonList": ["GooglePlay Store", "AppStore（停止中）"],
+      "buttonRef": [
+        "https://play.google.com/store/apps/details?id=com.wazzle.polaris&hl=ja&gl=US",
+        "https://apps.apple.com/jp/app/polaris-in-wazzle/id1610069713"
+      ]
+    },
+    {
+      "imgSrc": "atelimo_logo.png",
+      "title": "Enilimo’s Atelimo",
+      "backTitle": "Enilimo’s Atelimo（裏面）",
+      "content": "このページのこと。プライバシーポリシーとかAdmobに必要なファイルとか置く用のページとして使っていたものを転職活動用に書き直している。",
+      "backContent": "趣味で作っているものを突貫工事で書き直しているので文体等に「難」が残っていたらごめんなさい。",
+      "buttonList": ["Go Home"],
+      "buttonRef": ["/"]
+    },
+    {
+      "imgSrc": "King.png",
+      "title": "将棋シューティング（作成中）",
+      "backTitle": "将棋シューティング（裏面）",
+      "content": "奴。そのうちUnityでリメイクしてアプリで配布する。将棋とチェスと囲碁を混ぜ合わせたゲーム。Processingで作った。",
+      "backContent": "敵を増やすたびにグラフィックとコードを増やさなきゃいけないのが大変。地道にドットを打っている。",
+      "buttonList": ["Go Where"],
+      "buttonRef": ["/"]
+    },
+    {
+      "imgSrc": "tasktray_icon.png",
+      "title": "JKeyMouse",
+      "backTitle": "JKeyMouse（裏面）",
+      "content": "キーボードでマウスを動かす用のソフト。Java。どこでも公開等はしていない。一応マルチディスプレイ対応などもしている。",
+      "backContent": "Javaでユーティリティソフトウェアを作りたかったため作成。あまりユーティリティにならなかったためお蔵入り。",
+      "buttonList": ["No Where"],
+      "buttonRef": ["/"]
+    },
+    {
+      "imgSrc": "nodejs-icon.svg",
+      "title": "バックエンドNode",
+      "backTitle": "バックエンドNode（裏面）",
+      "content": "Fly.io上のサーバー。Expressで作成。Postgresも含む。小規模なランキング機能の実装などに使ってる。",
+      "backContent": "Heroku PostgresともどもHerokuから移設した。まともな運用にはスケールは足りないけどそのときはAWSとか使う。",
+      "buttonList": ["No Where"],
+      "buttonRef": ["/"]
+    }
+  ]
+}

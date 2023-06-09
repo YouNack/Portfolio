@@ -1,0 +1,88 @@
+{
+  "product": [
+    {
+      "imgSrc": "Processing.png",
+      "title": "Java (Processing)",
+      "backTitle": "具体的な制作物（Processing）",
+      "content": "中級。主に簡単なモックアップの作成や電卓を用いるのが面倒くさい計算などに使用",
+      "backContent": "簡単な実装（Gifアニメーションの作成、ボタンを要するインタラクティブなモック等）"
+    },
+    {
+      "imgSrc": "android-icon.svg",
+      "title": "Java (Android)",
+      "backTitle": "具体的な制作物（Android）",
+      "content": "中級。以前触れてから時間が経っているので変わっている部分も多いと思われる。",
+      "backContent": "学部修士ともに研究で使用。研究内容はタブレット用ソフトウェアキーボード。"
+    },
+    {
+      "imgSrc": "logo.svg",
+      "title": "Typescript (React/Nextjs)",
+      "backTitle": "具体的な製作物（React）",
+      "content": "中級。毎回調べながら書いてる。最近よく触れているので記憶に新しい。",
+      "backContent": "このページ。業務ではAdobe XDのプラグインの作成もReactで行った"
+    },
+    {
+      "imgSrc": "nodejs-icon.svg",
+      "title": "Typescript (Node(Express))",
+      "backTitle": "具体的な制作物（Node）",
+      "content": "中級。サーバーサイドを記述する際のファーストチョイス。",
+      "backContent": "Postgresとのやりとりを行うサーバーをFly.ioにデプロイしている。"
+    },
+    {
+      "imgSrc": "python.svg",
+      "title": "Python",
+      "backTitle": "具体的な制作物（Python）",
+      "content": "中級。最初に触れた言語。使用者が多いので人に合わせる際に使用。",
+      "backContent": "研究の際のデータ分析や出力に使用。業務ではDjangoも使用"
+    },
+    {
+      "imgSrc": "c-sharp.svg",
+      "title": "C# (Unity/.Net)",
+      "backTitle": "具体的な制作物（C#）",
+      "content": "少々。ゲーム作る際に使用した。使用感がJavaに似ているので違和感がない",
+      "backContent": "プライベートではスマホアプリ。業務では.NetでExcelを操作するソフトウェアを開発。"
+    },
+    {
+      "imgSrc": "flutter.svg",
+      "title": "Dart (Flutter)",
+      "backTitle": "具体的な制作物（Flutter）",
+      "content": "中級。使用感が良くライブラリが豊富なのでプライベートで良く使う。",
+      "backContent": "ゲームアプリ作成中。ライブラリはFlame。ネット上に情報が少ないので英語のドキュメントを読む"
+    },
+    {
+      "imgSrc": "postgresql.svg",
+      "title": "Postgres",
+      "backTitle": "具体的な制作物",
+      "content": "DB。Herokuで無料で使用できたので選択した、が無料ではなくなったのでFly.ioに移設した。",
+      "backContent": "このページのゲームのランキング部分。小規模ゲームのランキングを一括で管理するために外のDBにしている。"
+    },
+    {
+      "imgSrc": "microsoft-excel-2013-logo-svgrepo-com.svg",
+      "title": "VBA",
+      "backTitle": "具体的な制作物",
+      "content": "初級。主に業務で他の人の書いたコードをメンテナンスするために使用",
+      "backContent": "あまり進んでは使用しない。"
+    },
+    {
+      "imgSrc": "figma.svg",
+      "title": "Figma",
+      "backTitle": "Figma",
+      "content": "プライベートでのプロトタイピングに使用。業務では主にAdobe XD",
+      "backContent": "プライベートでのプロトタイピングに使用。業務では主にAdobe XD"
+    },
+    {
+      "imgSrc": "adobe-photoshop.svg",
+      "title": "Adobe",
+      "backTitle": "Adobe",
+      "content": "主に業務で使用するのはPhotoshop、Illustrator、XD。画面設計の際に使用",
+      "backContent": "主に業務で使用するのはPhotoshop、Illustrator、XD。画面設計の際に使用"
+    },
+    {
+      "imgSrc": "Inkscape_logo.png",
+      "title": "その他",
+      "backTitle": "その他",
+      "content": "InkscapeやGimpの使用経験あり。OfficeはPower Point、Word、Excel Outlookが主",
+      "backContent": "タスク管理系はプライベートではNotionを使用"
+    }
+  ]
+}
