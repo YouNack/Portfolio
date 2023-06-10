@@ -134,8 +134,8 @@ const GameComponent = () => {
                 HARD MODE
               </Button>
             ) : null}
-            <Link href="/gamehiscore" css={HiscoreButton}>
-              RANKING
+            <Link href="/" css={HiscoreButton}>
+              RANKING＜封鎖中＞
             </Link>
           </Box>
         ) : null}
@@ -155,7 +155,8 @@ const GameComponent = () => {
 
   // コンポーネントの初期化完了後コンポーネント状態にコンテキストを登録
   useEffect(() => {
-    const canvas: HTMLCanvasElement = (document.getElementById("canvas") as HTMLCanvasElement) ?? null;
+    const canvas: HTMLCanvasElement =
+      (document.getElementById("canvas") as HTMLCanvasElement) ?? null;
     const canvasContext = canvas.getContext("2d");
     setContext(canvasContext!);
     setHiscore(parseInt(localStorage.getItem("hiscore") ?? "0"));

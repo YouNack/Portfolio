@@ -103,14 +103,14 @@ const Home: NextPage = () => {
           <Link href="/techs" css={LinkButton}>
             学んだ物
           </Link>
-          <Link href="/" css={LinkButton}>
-            早押し＜封鎖中＞
+          <Link href="/hayaoshi" css={LinkButton}>
+            早押し
           </Link>
-          <Link href="/" css={LinkButton}>
-            俳句＜封鎖中＞
+          <Link href="/haiku" css={LinkButton}>
+            俳句
           </Link>
-          <Link href="/" css={LinkButton}>
-            即席の銘＜封鎖中＞
+          <Link href="/zayunomei" css={LinkButton}>
+            即席の銘
           </Link>
         </Box>
       </Box>
