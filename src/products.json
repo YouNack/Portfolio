@@ -25,7 +25,7 @@
       "imgSrc": "King.png",
       "title": "将棋シューティング（作成中）",
       "backTitle": "将棋シューティング（裏面）",
-      "content": "奴。そのうちUnityでリメイクしてアプリで配布する。将棋とチェスと囲碁を混ぜ合わせたゲーム。Processingで作った。",
+      "content": "Flutterで現在作成中のスマートフォン用のゲーム。将棋とチェスと囲碁を混ぜ合わせた。",
       "backContent": "敵を増やすたびにグラフィックとコードを増やさなきゃいけないのが大変。地道にドットを打っている。",
       "buttonList": ["Go Where"],
       "buttonRef": ["/"]
